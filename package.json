@@ -7,7 +7,7 @@
     "dev": "vite",
     "preview": "vite preview",
     
-    "build": "npm install && npm install --prefix client && npm run build --prefix client"
+    "build": "vite"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
